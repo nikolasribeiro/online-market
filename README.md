@@ -14,4 +14,3 @@ Front-end:
 Back-end:
 - Django (class-based-views)
 - Django Rest Framework
- 
